@@ -1,0 +1,2 @@
+# set up accessibility standards
+This project was created with html and css, my overall goal was to clean up the page and make it accessibility to anyone that views the page. I did this by adding alts, navs, and gave it a title. I also consolidated the images and added comments to each section that I saw fit to add.
